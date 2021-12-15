@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="http://upload-gifs.s3-sa-east-1.amazonaws.com/8cf24c73-4c3e-4fcb-9aff-a05dc2f90efb_cover-thompson.png" />
+</p>
 <h1 align="center">Hi, I'm VishalMakwana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
@@ -26,8 +28,15 @@
 
 
 
-
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=VishalMakwana23&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalMakwana23&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,html">
+  <br>
+  <br>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=VishalMakwana23&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
 
 
