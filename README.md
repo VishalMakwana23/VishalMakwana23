@@ -1,6 +1,8 @@
 
 <p align="center">
   <img src="http://upload-gifs.s3-sa-east-1.amazonaws.com/8cf24c73-4c3e-4fcb-9aff-a05dc2f90efb_cover-thompson.png" />
+<!--   ![vishal](https://user-images.githubusercontent.com/70998696/146713426-171207a0-780e-4ca2-91f5-2efc97f1a738.png) -->
+
 </p>
 <h1 align="center">Hi, I'm VishalMakwana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
