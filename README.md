@@ -4,7 +4,7 @@
 <!--   ![vishal](https://user-images.githubusercontent.com/70998696/146713426-171207a0-780e-4ca2-91f5-2efc97f1a738.png) -->
 
 </p>
-<h1 align="center">Hi, I'm VishalMakwana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi, I'm VishalMakwana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"height="25px"  width="25px"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/makwana-vishal-a91843198/">
