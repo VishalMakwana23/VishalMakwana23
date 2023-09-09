@@ -35,10 +35,10 @@
 
 
 <p align="center">
-  <img height="50%" width="35%" src ="https://github-readme-stats.vercel.app/api?username=vishalmakwana23&theme=dark&show_icons=true&hide_border=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="50%" width="26.5%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmakwana23&theme=dark&show_icons=true&hide_border=true&layout=compact">
-<!--   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=VishalMakwana23&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalMakwana23&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,html"> -->
+<!--   <img height="50%" width="35%" src ="https://github-readme-stats.vercel.app/api?username=vishalmakwana23&theme=dark&show_icons=true&hide_border=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50%" width="26.5%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmakwana23&theme=dark&show_icons=true&hide_border=true&layout=compact"> -->
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=VishalMakwana23&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalMakwana23&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,html">
   <br>
   <br>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=VishalMakwana23&theme=darcula&hide_border=true&background=FFFFFF00">
