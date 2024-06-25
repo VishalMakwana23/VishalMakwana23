@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=VishalMakwana23&color=brightgreen)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70998696/215512215-e035da7c-aff1-4a06-89b9-656c1565fcce.png" />
